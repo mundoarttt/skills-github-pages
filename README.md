@@ -1,4 +1,4 @@
-<header>
+<Prolyric>
 
 <!--
   <<< Author notes: Course header >>>
