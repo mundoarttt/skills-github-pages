@@ -32,6 +32,13 @@ Resumen: Prolyric es un videojuego interactivo centrado en la música, donde los
 
 Resolución: 600x600px 
 
+Imágenes: Las imágenes que aparecen son todas dibujadas por mí.
+
+Herramientas utilizadas:
+
+-Hippani Animator 5.1
+-Procreate
+
 fecha: 26/05/25
 
 
