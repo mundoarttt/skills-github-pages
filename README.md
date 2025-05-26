@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# prolyric
+# Prolyric
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 
@@ -22,7 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 # Datos
 
-Título: prolyric
+Título: Prolyric
 
 web: https://mundoarttt.github.io/skills-github-pages/
 
