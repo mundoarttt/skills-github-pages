@@ -9,8 +9,8 @@
 
 # prolyric
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
-
-https://mundoarttt.github.io/skills-github-pages/
+Título: prolyric
+web: https://mundoarttt.github.io/skills-github-pages/
 
 </header>
 
@@ -21,7 +21,7 @@ https://mundoarttt.github.io/skills-github-pages/
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+# Datos
 
 _You turned on GitHub Pages! :tada:_
 
