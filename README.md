@@ -24,7 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 Título: Prolyric
 
-web: https://mundoarttt.github.io/skills-github-pages/
+web: https://mundoarttt.github.io/prolyric/
 
 Autor: Alahia Ayala Mundo
 
