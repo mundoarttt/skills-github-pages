@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# prolyric
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+https://mundoarttt.github.io/skills-github-pages/
 
 </header>
 
