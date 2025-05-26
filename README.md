@@ -10,9 +10,6 @@
 # prolyric
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
-Título: prolyric
-
-web: https://mundoarttt.github.io/skills-github-pages/
 
 </header>
 
@@ -25,13 +22,17 @@ web: https://mundoarttt.github.io/skills-github-pages/
 
 # Datos
 
-_You turned on GitHub Pages! :tada:_
+Título: prolyric
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+web: https://mundoarttt.github.io/skills-github-pages/
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+Autor: Alahia Ayala Mundo
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+Resumen: Prolyric es un videojuego interactivo centrado en la música, donde los jugadores eligen su género musical favorito entre rock, pop, hip hop, reguetón y reggae. El objetivo del juego es completar las letras de las canciones más icónicas de ese género, poniendo a prueba tus conocimientos musicales y tu memoria. Compitiendo por puntuaciones altas y demostrando qué tan bien conoces las letras de tus artistas favoritos.
+
+Resolución: 600x600px 
+
+fecha: 26/05/25
 
 ### :keyboard: Activity: Configure your site
 
